@@ -2,5 +2,6 @@
   "dataUrl": "https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json",
   "width": 1000,
   "height": 600,
-  "padding": 100
+  "padding": 100,
+  "dot_radius": 7
 }
